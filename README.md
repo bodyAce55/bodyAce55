@@ -1,6 +1,6 @@
 <small>**👋 Senior Software Engineer**</small>
 
-<small>smart tech is a passionate Blockchain developer & IT Engineer committed to breaking barriers and crafting cutting-edge digital solutions. Specializing in building beautiful, high-performance web applications, smart tech leverages modern technologies and industry-leading methodologies. By embracing continuous innovation and staying ahead of the curve, smart tech brings concepts to life, demonstrating the transformative potential of technology in today's digital landscape.</small>
+<small>smart tech is a passionate Software developer & IT Engineer committed to breaking barriers and crafting cutting-edge digital solutions. Specializing in building beautiful, high-performance web applications, smart tech leverages modern technologies and industry-leading methodologies. By embracing continuous innovation and staying ahead of the curve, smart tech brings concepts to life, demonstrating the transformative potential of technology in today's digital landscape.</small>
 
 <small>**🚀 My Key Skills**</small>
 
@@ -14,7 +14,7 @@ React.JS, Next.JS, Vue.JS, Angular.js, Typescript, TailwindCSS, Flutter, React N
 Node.JS, Golang, Rust, Laravel, Flask, Django, AWS, GCP, GraphQL, Postgresql.</small>
 
 <small>**⛓️ Blockchain Development**  
-Ethereum, Solana, Sui, Dex, Defi, Defin, cross-chain, Crypto Trading Bot.</small>
+Bitcoin, Solana, Crypto Trading Bot.</small>
 
 <small>**🖥️ Desktop App Development**  
 ElectronJS, Tauri, PyQT, QT etc.</small>
