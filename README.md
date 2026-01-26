@@ -13,9 +13,6 @@ React.JS, Next.JS, Vue.JS, Angular.js, Typescript, TailwindCSS, Flutter, React N
 <small>**⚙️ Backend Development**  
 Node.JS, Golang, Rust, Laravel, Flask, Django, AWS, GCP, GraphQL, Postgresql.</small>
 
-<small>**⛓️ Blockchain Development**  
-Bitcoin, Solana, Crypto Trading Bot.</small>
-
 <small>**🖥️ Desktop App Development**  
 ElectronJS, Tauri, PyQT, QT etc.</small>
 
